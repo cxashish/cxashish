@@ -13,7 +13,7 @@ Nice to meet you, I'm Ashish Patel aka ashishxcode
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishxcode&theme=react)](https://github.com/ashishxcode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxashish&theme=react)](https://github.com/cxashish/github-readme-stats)
 
 <br>
 
