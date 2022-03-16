@@ -8,16 +8,10 @@ Nice to meet you, I'm Ashish Patel aka ashishxcode
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
 - 📫 How to reach me **ashishxcode@gmail.com**
-    
-<br>
-
-## My Weapons 🌟
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxashish&theme=react)](https://github.com/cxashish/github-readme-stats)
 
 <br>
 
-## Other Shields 🛡
+## Shields 🛡
 
 <p align="left">
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp; &nbsp;
