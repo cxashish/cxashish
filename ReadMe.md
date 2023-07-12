@@ -34,13 +34,4 @@ Nice to meet you, I'm Ashish Patel aka ashishxcode
 
 <br>
 
- 
-## Github Status 🏆
-
-<img  src="https://github-readme-stats.vercel.app/api?username=cxashish&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=cxashish&theme=react" width="48%" >
-<br>
-
-![github graph](https://activity-graph.herokuapp.com/graph?username=cxashish&theme=react-dark)
-<br>
 
